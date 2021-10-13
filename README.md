@@ -19,5 +19,5 @@ Lenguajes utilizados:
 </ul>
 
 <h4>Algunas Imagenes</h4>
-![Screenshot_1](https://user-images.githubusercontent.com/57770054/137162755-9e2e7ee4-b3a9-4758-9bee-6f85564258f0.png)
+<img src="https://user-images.githubusercontent.com/57770054/137162755-9e2e7ee4-b3a9-4758-9bee-6f85564258f0.png">
 
