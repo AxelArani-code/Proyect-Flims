@@ -18,6 +18,7 @@ Lenguajes utilizados:
   <li>Una vez que tenga la database ya puedes corre la web. </li>
 </ul>
 
-<h4>Algunas Imagenes</h4>
+<h2>Algunas Imagenes</h2>
+<hr>
 <img src="https://user-images.githubusercontent.com/57770054/137162755-9e2e7ee4-b3a9-4758-9bee-6f85564258f0.png">
 
